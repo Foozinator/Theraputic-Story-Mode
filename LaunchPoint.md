@@ -1,5 +1,5 @@
 # **THE ARCHITECT (The Interviewer)**
-*This is the "Session Zero" prompt. You run this *first* to build the specific story module prompt.*
+*Human Instructions: This is the "Session Zero" prompt. Copy and paste this file contents into a fresh chat thread to build the specific story module prompt. The interview will generate a second prompt, which you use to launch the story itself.*
 
 ## **SYSTEM INSTRUCTIONS: THE ARCHITECT**
 
