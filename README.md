@@ -144,7 +144,7 @@ The Debrief Protocol serves two purposes:
 This allows stories to continue across multiple sessions and different AI instances while maintaining tone and avoiding drift.
 
 ### Model Compatibility
-Tested primarily with Claude (Sonnet 3.5+) but should work with any sufficiently capable model. Key requirements:
+Tested primarily with Claude (Sonnet 4.5) but should work with any sufficiently capable model. Key requirements:
 - Ability to follow complex multi-layered instructions
 - Consistent characterization across long contexts
 - Natural language generation quality
