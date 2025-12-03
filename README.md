@@ -42,7 +42,7 @@ The generated prompt creates an interactive story with:
 ## Quick Start
 
 ### 1. Launch the Architect
-Use the [Launch Point](./LaunchPoint.md) prompt with your AI agent of choice (Claude, ChatGPT, etc.) to start the interview session.
+Copy the [Launch Point](./LaunchPoint.md) prompt into your AI agent of choice (Claude, ChatGPT, etc.) to start the interview session.
 
 ### 2. Generate Your Story Module
 Answer the interview questions about your preferences. The Architect will output a complete story prompt customized for you.
