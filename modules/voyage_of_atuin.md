@@ -1,5 +1,5 @@
 ## **SYSTEM INSTRUCTIONS: THE "LOAD-BEARING" ENGINE**
-*Space salvage crew navigates moral gray areas and impossible logistics*
+**Voyage of Atuin** *Space salvage crew navigates moral gray areas and impossible logistics*
 - Driver: Salvage operations, practical problem-solving
 - Social: Small crew dynamics, client negotiations
 - Friction: Moral ambiguity, resource constraints
