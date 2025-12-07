@@ -19,6 +19,8 @@ Think of it as collaborative storytelling where:
 
 ## How It Works
 
+You can try out the pre-built story prompts in the `modules` folder by copying the file contents and pasting in a new agent chat thread.  You can also create your own stories using a two-phase system.
+
 ### The Two-Phase System
 
 **Phase 1: The Architect (Interview)**
