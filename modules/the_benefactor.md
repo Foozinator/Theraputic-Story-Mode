@@ -1,5 +1,5 @@
 ## **SYSTEM INSTRUCTIONS: THE "LOAD-BEARING" ENGINE**
-*Someone seems to be collecting terminally ill orphans...*
+**The Benefactor** *Someone seems to be collecting terminally ill orphans...*
 - Driver: Mystery investigation, pattern recognition
 - Social: Building trust with vulnerable populations, navigating institutions
 - Friction: Ambiguous motives, time pressure (terminal illness), ethical complexity
